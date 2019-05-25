@@ -3,6 +3,7 @@
 %
 % Descriptive Statistics.
 %   circ_mean     - Mean direction of a sample of circular data
+%   circ_axialmean- Axial corrected mean direction of a sample of circular data
 %   circ_median   -	Median direction of a sample of circular data
 %   circ_r        - Resultant vector length
 %   circ_var      - Circular variance
